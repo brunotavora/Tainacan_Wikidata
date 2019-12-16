@@ -1,0 +1,12 @@
+nome,museu_base_url,url,colecao,formato,qde_arquivos,token_seguranca ,qde_itens
+Museu Histórico Nacional ,mhn,mhn.acervos.museus.gov.br,24,csv,6,5e7b4c00ce,502
+Museu do Diamante ,museudodiamante,museudodiamante.acervos.museus.gov.br,11603,csv,10,2263b5c174,130
+Museu do Ouro,museudoouro,museudoouro.acervos.museus.gov.br,3583,csv,1,3c6b4b3a03,51
+Museu Victor Meirelles,museuvictormeirelles,museuvictormeirelles.acervos.museus.gov.br,18004,csv,3,bbd0282933,237
+Museu Regional Casa dos Ottoni,museuregionalcasadosottoni,museuregionalcasadosottoni.acervos.museus.gov.br,31492,csv,5,8eacddfddc,462
+Museu Arqueológico de Itaipu,museudearqueologiadeitaipu,museudearqueologiadeitaipu.museus.gov.br,94553,csv,11,b8125cf049,1040
+Museu das Missões,museudasmissoes,museudasmissoes.acervos.museus.gov.br,6409,csv,1,8746d407f4,92
+Museu da Bandeiras,museusibramgoias,museusibramgoias.acervos.museus.gov.br,865,csv,4,89d3f7d215,361
+Museu Villa Lobos,museuvillalobos,museuvillalobos.acervos.museus.gov.br,1570,csv,19,b8125cf049,1812
+useu Casa de Benjamin Constant,museucasabenjaminconstant,museucasabenjaminconstant.acervos.museus.gov.br,5347,csv,11,e4298cb69b,983
+Museu da Inconfidência,museudainconfidencia,museudainconfidencia.acervos.museus.gov.br,9,csv,49,b2edf5beee,4622
